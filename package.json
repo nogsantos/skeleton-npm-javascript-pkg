@@ -71,6 +71,7 @@
     },
     "babel": {
         "presets": [
+            "env",
             "stage-2"
         ],
         "env": {
