@@ -1,10 +1,6 @@
-/**
- * Index Class
+/**!
  *
- * @class Index
+ * Add the libs to export
+ *
  */
-class Index {
-
-}
-
-module.exports = Index;
+export { Example } from './lib/_example';
